@@ -1,5 +1,5 @@
 class ApplicationMailer < ActionMailer::Base
-  default from: "'MRCHIRGA Welcome You..' <from@example.com>"
+  default from: "'MRCHIRGA Welcome You..  Cya sooon' <from@example.com>"
   layout 'mailer'
 
 end
